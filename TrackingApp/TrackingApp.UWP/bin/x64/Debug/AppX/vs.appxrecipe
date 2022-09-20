@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-48UPRLH</Machine>
+    <WindowsUser>Hindi</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Hindi</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>63E9B5D98AC4733CB3EBB3148AA8D86CED9435CF01C1C3ABCA2E72BCF874F2C7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3318510d-3ba3-44a0-b1d5-c1bf1498c48d_1.0.0.0_x64__8hz6saxyenmya</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3318510d-3ba3-44a0-b1d5-c1bf1498c48d_8hz6saxyenmya!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3318510d-3ba3-44a0-b1d5-c1bf1498c48d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Hindi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-14T14:42:24.455</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Acr.UserDialogs\Platforms\Uwp\ActionSheetContentDialog.xaml">
+      <PackagePath>Acr.UserDialogs\Platforms\Uwp\ActionSheetContentDialog.xaml</PackagePath>
+      <Modified>2018-01-23T21:04:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Acr.UserDialogs\Platforms\Uwp\DatePickerControl.xaml">
+      <PackagePath>Acr.UserDialogs\Platforms\Uwp\DatePickerControl.xaml</PackagePath>
+      <Modified>2018-01-23T21:04:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Acr.UserDialogs\Platforms\Uwp\LoginContentDialog.xaml">
+      <PackagePath>Acr.UserDialogs\Platforms\Uwp\LoginContentDialog.xaml</PackagePath>
+      <Modified>2018-01-23T21:04:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Acr.UserDialogs\Platforms\Uwp\ProgressContentDialog.xaml">
+      <PackagePath>Acr.UserDialogs\Platforms\Uwp\ProgressContentDialog.xaml</PackagePath>
+      <Modified>2018-01-23T21:04:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Acr.UserDialogs\Platforms\Uwp\TimePickerControl.xaml">
+      <PackagePath>Acr.UserDialogs\Platforms\Uwp\TimePickerControl.xaml</PackagePath>
+      <Modified>2018-01-23T21:04:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\LockScreenLogo.scale-100.png">
+      <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
+      <Modified>2018-04-03T03:33:43.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\LockScreenLogo.scale-125.png">
+      <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
+      <Modified>2018-04-03T03:33:43.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\LockScreenLogo.scale-150.png">
+      <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
+      <Modified>2018-04-03T03:33:43.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-04-03T03:33:43.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\LockScreenLogo.scale-400.png">
+      <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
+      <Modified>2018-04-03T03:33:43.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T03:33:43.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2018-02-23T13:21:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\Coding4Fun.Toolkit.Controls\Themes\Generic.xbf">
+      <PackagePath>Coding4Fun.Toolkit.Controls\Themes\Generic.xbf</PackagePath>
+      <Modified>2016-05-12T12:21:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2017-05-01T10:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-14T14:41:12.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\TrackingApp.UWP.dll">
+      <PackagePath>TrackingApp.UWP.dll</PackagePath>
+      <Modified>2018-04-14T14:42:22.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\TrackingApp.UWP.exe">
+      <PackagePath>TrackingApp.UWP.exe</PackagePath>
+      <Modified>2018-04-14T14:42:24.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc\TrackingApp.UWP.pdb">
+      <PackagePath>TrackingApp.UWP.pdb</PackagePath>
+      <Modified>2018-04-14T14:42:24.412</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

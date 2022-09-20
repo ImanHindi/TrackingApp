@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrackingApp.Views.MotionDetectionView"
+             xmlns:views="clr-namespace:TrackingApp.Views;assembly=TrackingApp"
+			 xmlns:viewModelBase="clr-namespace:TrackingApp.ViewModels.Base;assembly=TrackingApp"
+             viewModelBase:ViewModelLocator.AutoWireViewModel="true"
+             Title="MotionDetection">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+
+
+                </Grid.ColumnDefinitions>
+
+                <!-- NAME -->
+                <Label 
+                    Grid.Column="0"
+                    Text="Date"/>
+                <Label 
+                    Grid.Column="1"
+                    Text="SensorType"/>
+                <Label 
+                    Grid.Column="2"
+                    Text="ValueType"/>
+                <Label 
+                    Grid.Column="3"
+                    Text="XValue"/>
+                <Label 
+                    Grid.Column="4"
+                    Text="YValue"/>
+                <Label 
+                    Grid.Column="5"
+                    Text="ZValue"/>
+
+            </Grid>
+<ListView ItemsSource="{Binding ListofMotionInfo}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            
+                             <Grid>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+
+
+                            </Grid.ColumnDefinitions>
+
+                            <Label 
+                                    Grid.Column="0"
+                                    Text="{Binding Date, Mode=TwoWay}"/>
+                                <Label 
+                                    Grid.Column="1"
+                                    Text="{Binding SensorType, Mode=TwoWay}"/>
+                                <Label 
+                                    Grid.Column="2"
+                                    Text="{Binding ValueType, Mode=TwoWay}"/>
+                            <Label 
+                                    Grid.Column="3"
+                                    Text="{Binding XValue, Mode=TwoWay}"/>
+                          
+                          <Label 
+                                    Grid.Column="4"
+                                    Text="{Binding YValue, Mode=TwoWay}"/>
+
+                          <Label 
+                                    Grid.Column="5"
+                                    Text="{Binding ZValue, Mode=TwoWay}"/>
+                        </Grid>
+                                   
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

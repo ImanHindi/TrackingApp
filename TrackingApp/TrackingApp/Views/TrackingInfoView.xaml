@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrackingApp.Views.TrackingInfoView"
+             xmlns:views="clr-namespace:TrackingApp.Views;assembly=TrackingApp"
+			 xmlns:viewModelBase="clr-namespace:TrackingApp.ViewModels.Base;assembly=TrackingApp"
+             xmlns:converters="clr-namespace:TrackingApp.Converters;assembly=TrackingApp"
+			 viewModelBase:ViewModelLocator.AutoWireViewModel="true"
+             Title="Tracking">
+    <!--<ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:DatetimeConverter x:Key="DatetimeConverter"/>
+            --><!--<converters:TimeConverter x:Key="TimeConverter"/>--><!--
+
+        </ResourceDictionary>
+    </ContentPage.Resources>-->
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+
+
+                </Grid.ColumnDefinitions>
+
+                <!-- NAME -->
+                <Label 
+                    Grid.Column="0"
+                    Text="Date"/>
+                <Label 
+                    Grid.Column="1"
+                    Text="Altitude"/>
+                <Label 
+                    Grid.Column="2"
+                    Text="Latitude"/>
+                <Label 
+                    Grid.Column="3"
+                    Text="Longitude"/>
+                <Label 
+                    Grid.Column="4"
+                    Text="Speed"/>
+
+            </Grid>
+            <ListView ItemsSource="{Binding ListofTrackingData}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+
+
+                            </Grid.ColumnDefinitions>
+
+                            <!-- NAME -->
+                            <Label 
+                                    Grid.Column="0"
+                                    Text="{Binding Date, Mode=TwoWay}"/>
+                                <Label 
+                                    Grid.Column="1"
+                                    Text="{Binding Altitude, Mode=TwoWay}"/>
+                                <Label 
+                                    Grid.Column="2"
+                                    Text="{Binding Latitude, Mode=TwoWay}"/>
+                            <Label 
+                                    Grid.Column="3"
+                                    Text="{Binding Longitude, Mode=TwoWay}"/>
+                            <Label 
+                                    Grid.Column="4"
+                                    Text="{Binding Speed, Mode=TwoWay}"/>
+
+                        </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

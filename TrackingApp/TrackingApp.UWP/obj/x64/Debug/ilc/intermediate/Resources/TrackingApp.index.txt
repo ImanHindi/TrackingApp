@@ -1,0 +1,4 @@
+TrackingApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  TrackingApp.App.xaml
+  TrackingApp.Views.CustomNavigationView.xaml
+  TrackingApp.Views.MainView.xaml

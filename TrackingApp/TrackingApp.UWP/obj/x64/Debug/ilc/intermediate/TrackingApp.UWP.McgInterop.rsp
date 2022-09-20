@@ -1,0 +1,47 @@
+/debug:full
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize-
+/out:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop.dll"
+/pdb:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop.pdb"
+/platform:x64
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/define:DEBUG
+/define:WIN64
+/define:AMD64
+/define:ALIGN_ACCESS
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\tools\x64\ilc\lib\Private\System.Private.CoreLib.InteropServices.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\tools\x64\ilc\lib\Private\System.Private.CompilerServices.ICastable.dll"
+/r:"C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\tools\x64\ilc\lib\Private\System.Private.DispatchProxy.dll"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Reflection.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Runtime.iltoc"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Runtime.InteropServices.dll"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Numerics.Vectors.dll"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Threading.dll"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Diagnostics.Debug.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\tools\x64\ilc\lib\Private\System.Private.CoreLib.Augments.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\System.Private.TrackingApp.UWP.Generated.dll"
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop\Adapters.g.cs"
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop\AssemblyInfo.g.cs"
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop\Data.g.cs"
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop\Helpers.g.cs"
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop\ImplTypes.g.cs"
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop\PInvoke.g.cs"
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop\SafeTypes.g.cs"
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\TrackingApp.UWP.McgInterop\SharedStubs.g.cs"

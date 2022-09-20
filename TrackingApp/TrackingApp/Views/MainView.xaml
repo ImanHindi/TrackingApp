@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:TrackingApp"
+
+             x:Class="TrackingApp.Views.MainView" 
+			xmlns:viewModelBase="clr-namespace:TrackingApp.ViewModels.Base;assembly=TrackingApp"
+            xmlns:views="clr-namespace:TrackingApp.Views"
+            viewModelBase:ViewModelLocator.AutoWireViewModel="true">
+    <TabbedPage.Title>
+        <OnPlatform x:TypeArguments="x:String">
+            <On Platform="iOS, UWP, WinRT, WinPhone" Value="Tracking App" />
+        </OnPlatform>
+    </TabbedPage.Title>
+    <TabbedPage.ToolbarItems backgroundColor="Black" TextColor="White">
+        <ToolbarItem 
+            Command="{Binding SettingsCommand}"
+            Text="Settings">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS, Android" Value="app_settings" />
+                    <On Platform="UWP, WinRT, WinPhone" Value="Assets/app_settings.png" />
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </TabbedPage.ToolbarItems>
+    <!-- Map -->
+    <views:MotionDetectionView  
+        x:Name="MotionDetectionView">
+        <!--<views:MotionDetectionView.Icon>
+            <OnPlatform x:TypeArguments="FileImageSource">
+                <On Platform="iOS, Android" Value="ic_menu" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets\ic_menu.png" />
+            </OnPlatform>
+        </views:MotionDetectionView.Icon>-->
+    </views:MotionDetectionView>
+    <!-- TrackingInfo -->
+    <views:TrackingInfoView
+        x:Name="TrackingInfoView">
+        <!--<views:TrackingInfoView.Icon>
+            <OnPlatform x:TypeArguments="FileImageSource">
+                <On Platform="iOS, Android" Value="TrackingInfo" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets\TrackingInfo.png" />
+            </OnPlatform>
+        </views:TrackingInfoView.Icon>-->
+    </views:TrackingInfoView>
+    <!-- DeviceInfo -->
+    <views:DeviceInfoView
+        x:Name="DeviceInfoView">
+        <!--<views:DeviceInfoView.Icon>
+            <OnPlatform x:TypeArguments="FileImageSource">
+                <On Platform="iOS, Android" Value="DeviceInfo" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets\DeviceInfo.png" />
+            </OnPlatform>
+        </views:DeviceInfoView.Icon>-->
+    </views:DeviceInfoView>
+    <views:TrackingMapView  
+        x:Name="TrackingMapView">
+        <!--<views:TrackingMapView.Icon>
+            <OnPlatform x:TypeArguments="FileImageSource">
+                <On Platform="iOS, Android" Value="Map" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets\Map.png" />
+            </OnPlatform>
+        </views:TrackingMapView.Icon>-->
+    </views:TrackingMapView>
+
+</TabbedPage>

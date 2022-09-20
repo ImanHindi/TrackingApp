@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrackingApp.Views.TrackingMapView"
+              xmlns:views="clr-namespace:TrackingApp.Views;assembly=TrackingApp"
+			 xmlns:viewModelBase="clr-namespace:TrackingApp.ViewModels.Base;assembly=TrackingApp"
+             xmlns:converters="clr-namespace:TrackingApp.Converters;assembly=TrackingApp"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             xmlns:local="clr-namespace:TrackingApp.Controls"
+             viewModelBase:ViewModelLocator.AutoWireViewModel="true"
+             Title="Map">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <local:CustomMap MapType="Street" 
+                             MapPosition="{Binding Position}" 
+                             MapPins="{Binding CurrentPositionPin}" 
+                             IsShowingUser="true" 
+                             RouteCoordinates="{Binding RouteCoordinates}"
+                            SelectedPosition="{Binding SelectedPosition}"                           />
+            <Label Text="Select your Destination On Map"/>
+            <Button Text="Show Route" Command="Show_Route"/>
+        </StackLayout>
+        
+        </ContentPage.Content>
+
+
+</ContentPage>

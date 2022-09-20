@@ -1,0 +1,15 @@
+/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Hindi\.nuget\packages\microsoft.net.native.compiler\2.0.3\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+"E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\MDIL\TrackingApp.UWP.mdilexe"
+"/i:E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\MDIL"
+"/out:E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\Native\TrackingApp.UWP.exe"
+"/pdbAltPath:E:\TrackingApp\TrackingApp\TrackingApp.UWP\bin\x64\Debug\ilc"
+"/res:E:\TrackingApp\TrackingApp\TrackingApp.UWP\obj\x64\Debug\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\tools\SharedLibrary\chk\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

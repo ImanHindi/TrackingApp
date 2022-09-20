@@ -1,0 +1,1 @@
+E:\TrackingApp\TrackingApp\TrackingApp.UWP\TrackingApp.UWP.csproj;x86

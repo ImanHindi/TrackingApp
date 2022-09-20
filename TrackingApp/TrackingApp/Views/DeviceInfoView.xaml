@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrackingApp.Views.DeviceInfoView"
+             xmlns:views="clr-namespace:TrackingApp.Views"
+			 xmlns:viewModelBase="clr-namespace:TrackingApp.ViewModels.Base"
+			 viewModelBase:ViewModelLocator.AutoWireViewModel="true"
+             Title="Device">
+
+   
+   <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Device Info Successfully Saved" IsVisible="{Binding Visiblity }"/>
+       
+        <Grid>
+            <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            
+        </Grid.RowDefinitions>
+        <Label 
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    Text="UniqueId"/>
+        <Label 
+                    Grid.Column="1"
+                    Grid.Row="0"
+                    Text="{Binding DeviceInformation.Id }"/>
+
+                <Label 
+                    Grid.Column="0"
+                    Grid.Row="1"
+                    Text="Name"/>
+        <Label 
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    Text="{Binding DeviceInformation.Name}"/>
+
+        <Label 
+                    Grid.Column="0"
+                    Grid.Row="2"
+                    Text="Model"/>
+        <Label 
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    Text="{Binding DeviceInformation.Model}"/>
+        <Label 
+                    Grid.Column="0"
+                    Grid.Row="3"
+                    Text="OSVersion"
+                    />
+            <Label 
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    Text="{Binding DeviceInformation.OSVersion}"
+                    />
+        <Label 
+                    Grid.Column="0"
+                    Grid.Row="4"
+                    Text="VersionNo"
+                    />
+        <Label 
+                    Grid.Column="1"
+                    Grid.Row="4"
+                    Text="{Binding DeviceInformation.VersionNo}"
+                    />
+
+        <Label 
+                    Grid.Column="0"
+                    Grid.Row="5"
+                    Text="Manufacturer"
+                    />
+        <Label 
+                    Grid.Column="1"
+                    Grid.Row="5"
+                    Text="{Binding DeviceInformation.Manufacturer}"
+                    />
+
+        <Label 
+                    Grid.Column="0"
+                    Grid.Row="6"
+                    Text="Platform"
+                    />
+        <Label 
+                    Grid.Column="1"
+                    Grid.Row="6"
+                    Text="{Binding DeviceInformation.Platform}"
+                    />
+        <Label 
+                    Grid.Column="0"
+                    Grid.Row="7"
+                    Text="Idiom"
+                    />
+        <Label 
+                    Grid.Column="1"
+                    Grid.Row="7"
+                    Text="{Binding DeviceInformation.Idiom}"
+                    />
+
+    </Grid>
+        
+      </StackLayout>      
+    </ContentPage.Content>
+</ContentPage>

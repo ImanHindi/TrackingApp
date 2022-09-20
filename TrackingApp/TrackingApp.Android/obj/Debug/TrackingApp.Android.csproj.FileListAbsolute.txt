@@ -1,0 +1,310 @@
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.Android.dll
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.Android.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.TrackingApp.apk
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.TrackingApp-Signed.apk
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.dll
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.csprojAssemblyReference.cache
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll.stamp
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll.stamp
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll.stamp
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll.stamp
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/proguard/dc663e480.txt
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/dc663e48.proguard.stamp
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/0757626b.proguard.stamp
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/2f4d086a.proguard.stamp
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/ea5c07c4.proguard.stamp
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.csproj.CoreCompileInputs.cache
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.csproj.CopyComplete
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.dll
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/bin/TrackingApp.TrackingApp.apk
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/icon.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/icon.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/icon.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/layout/tabbar.xml
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/layout/toolbar.xml
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/values/styles.xml
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_camera.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_close.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_facebook.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_menu.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_notification.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_start.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_stop.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/map.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/trackinginfo.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/deviceinfo.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/menu_settings.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_camera.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_close.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_facebook.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_menu.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_notification.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_start.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_stop.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/map.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/trackinginfo.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/deviceinfo.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/menu_settings.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_camera.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_close.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_facebook.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_menu.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_notification.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_start.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_stop.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/map.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/trackinginfo.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/deviceinfo.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/menu_settings.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/deviceinfo.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_camera.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_close.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_facebook.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_menu.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_notification.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_start.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_stop.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/map.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/menu_settings.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/trackinginfo.png
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/R.cs.flag
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/R.txt
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/uploadflags.txt
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Mono.Android.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/mscorlib.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Battery.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.DeviceInfo.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.ExternalMaps.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/SQLite-net.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Core.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.IdentityModel.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Net.Http.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Runtime.Serialization.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Xml.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Xml.Linq.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Xamarin.Forms.Core.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.ComponentModel.Composition.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Data.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Numerics.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Transactions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.IO.Compression.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.IO.Compression.FileSystem.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.Web.Services.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Mono.Security.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/System.ServiceModel.Internals.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Mono.Android.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/mscorlib.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Battery.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Connectivity.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.DeviceInfo.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.ExternalMaps.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Geolocator.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Permissions.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/SQLite-net.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Core.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.IdentityModel.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Net.Http.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Runtime.Serialization.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Xml.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Xml.Linq.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/TrackingApp.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.ComponentModel.Composition.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Data.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Numerics.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Transactions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.IO.Compression.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.IO.Compression.FileSystem.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.Web.Services.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Mono.Security.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/System.ServiceModel.Internals.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/DeviceMotion.Plugin.Abstractions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/DeviceMotion.Plugin.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/FormsViewGroup.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Battery.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Connectivity.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.DeviceInfo.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.ExternalMaps.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Geolocator.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Permissions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Settings.Abstractions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Settings.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/TrackingApp.Android.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/DeviceMotion.Plugin.Abstractions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/DeviceMotion.Plugin.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/FormsViewGroup.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Battery.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Connectivity.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.DeviceInfo.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.ExternalMaps.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Geolocator.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Permissions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Settings.Abstractions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Settings.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.Android.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/DeviceMotion.Plugin.Abstractions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/DeviceMotion.Plugin.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Battery.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Connectivity.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.DeviceInfo.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.ExternalMaps.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Geolocator.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Permissions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Settings.Abstractions.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Settings.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/TrackingApp.Android.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Mono.Android.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Mono.Security.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/mscorlib.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Battery.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Connectivity.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.DeviceInfo.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.ExternalMaps.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Geolocator.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Plugin.Permissions.Abstractions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/SQLite-net.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.ComponentModel.Composition.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Core.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Data.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.IdentityModel.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.IO.Compression.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Net.Http.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Numerics.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.ServiceModel.Internals.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Transactions.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Web.Services.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Xml.Linq.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/System.Xml.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/TrackingApp.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
+E:/TrackingApp/TrackingApp/TrackingApp.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.Android.dll
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.Android.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.TrackingApp.apk
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.TrackingApp-Signed.apk
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.dll
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/TrackingApp.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.csprojAssemblyReference.cache
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/proguard/dc663e480.txt
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/dc663e48.proguard.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/0757626b.proguard.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/2f4d086a.proguard.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XbdMerge/ea5c07c4.proguard.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res.flag
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.csproj.CoreCompileInputs.cache
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/XamlC.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.csproj.CopyComplete
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.dll
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/TrackingApp.Android.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/android/bin/TrackingApp.TrackingApp.apk
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/icon.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/icon.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/layout/tabbar.xml
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/layout/toolbar.xml
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/values/styles.xml
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_camera.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_close.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_facebook.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_menu.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_notification.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_start.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/ic_stop.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/map.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/trackinginfo.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/deviceinfo.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-hdpi/menu_settings.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_camera.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_close.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_facebook.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_menu.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_notification.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_start.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/ic_stop.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/map.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/trackinginfo.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/deviceinfo.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xhdpi/menu_settings.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_camera.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_close.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_facebook.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_menu.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_notification.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_start.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/ic_stop.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/map.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/trackinginfo.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/deviceinfo.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable-xxhdpi/menu_settings.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/deviceinfo.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_camera.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_close.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_facebook.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_menu.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_notification.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_start.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/ic_stop.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/map.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/menu_settings.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/res/drawable/trackinginfo.png
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/R.cs.flag
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/R.txt
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/uploadflags.txt
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/IdentityModel.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Mono.Android.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Battery.Abstractions.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.ExternalMaps.Abstractions.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/SQLite-net.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/TrackingApp.Android.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/IdentityModel.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Battery.Abstractions.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Connectivity.Abstractions.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.ExternalMaps.Abstractions.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/SQLite-net.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/TrackingApp.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/DeviceMotion.Plugin.Abstractions.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/DeviceMotion.Plugin.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Battery.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Connectivity.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.ExternalMaps.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Settings.Abstractions.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Plugin.Settings.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/DeviceMotion.Plugin.Abstractions.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/DeviceMotion.Plugin.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/FormsViewGroup.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Battery.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Connectivity.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.ExternalMaps.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Settings.Abstractions.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Plugin.Settings.dll.mdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb

@@ -1,0 +1,26 @@
+E:/TrackingApp/TrackingApp/TrackingApp/bin/Debug/netstandard2.0/TrackingApp.deps.json
+E:/TrackingApp/TrackingApp/TrackingApp/bin/Debug/netstandard2.0/TrackingApp.dll
+E:/TrackingApp/TrackingApp/TrackingApp/bin/Debug/netstandard2.0/TrackingApp.pdb
+E:/TrackingApp/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.csprojAssemblyReference.cache
+E:/TrackingApp/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.csproj.CoreCompileInputs.cache
+E:/TrackingApp/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.AssemblyInfoInputs.cache
+E:/TrackingApp/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.AssemblyInfo.cs
+E:/TrackingApp/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.dll
+E:/TrackingApp/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/bin/Debug/netstandard2.0/TrackingApp.deps.json
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/bin/Debug/netstandard2.0/TrackingApp.dll
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/bin/Debug/netstandard2.0/TrackingApp.pdb
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/Views/CustomNavigationView.xaml.g.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/Views/DeviceInfoView.xaml.g.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/Views/MainView.xaml.g.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/Views/MotionDetectionView.xaml.g.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/Views/SettingsView.xaml.g.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/Views/TrackingInfoView.xaml.g.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/Views/TrackingMapView.xaml.g.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.csproj.CoreCompileInputs.cache
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.AssemblyInfoInputs.cache
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.AssemblyInfo.cs
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.dll
+/Volumes/D/My PC/Draft/TrackingApp 4/TrackingApp/TrackingApp/obj/Debug/netstandard2.0/TrackingApp.pdb
